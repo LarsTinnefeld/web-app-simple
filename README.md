@@ -2,6 +2,8 @@
 
 Web application with Python, HTML, Flask, Plotly
 
+This training module is part of Udacity's Data Science Nanodegree program.
+
 To run:
 1) Have code downloaded on local machine
 2) cd into main folder ('web-app-simple')
